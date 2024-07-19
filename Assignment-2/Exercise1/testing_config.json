@@ -1,0 +1,5 @@
+{
+    "batch_size": 5,
+    "datetime_format": "%d/%m/%Y",
+    "random_seed": 42
+}
